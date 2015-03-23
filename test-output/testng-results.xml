@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13220" started-at="2015-03-17T06:17:09Z" finished-at="2015-03-17T06:17:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13220" started-at="2015-03-17T06:17:09Z" finished-at="2015-03-17T06:17:22Z">
+      <class name="com.shopstyle.RegressionTestSuite">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.shopstyle.RegressionTestSuite@16f6701]" name="setup" is-config="true" duration-ms="8812" started-at="2015-03-17T12:17:09Z" finished-at="2015-03-17T12:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyBlankNewsletterSignUp()[pri:0, instance:com.shopstyle.RegressionTestSuite@16f6701]" name="verifyBlankNewsletterSignUp" duration-ms="928" started-at="2015-03-17T12:17:17Z" finished-at="2015-03-17T12:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBlankNewsletterSignUp -->
+        <test-method status="PASS" signature="verifyInvalidNewsletterSignUp()[pri:0, instance:com.shopstyle.RegressionTestSuite@16f6701]" name="verifyInvalidNewsletterSignUp" duration-ms="1462" started-at="2015-03-17T12:17:18Z" finished-at="2015-03-17T12:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidNewsletterSignUp -->
+        <test-method status="PASS" signature="verifyValidNewsletterSignUp()[pri:0, instance:com.shopstyle.RegressionTestSuite@16f6701]" name="verifyValidNewsletterSignUp" duration-ms="1933" started-at="2015-03-17T12:17:20Z" finished-at="2015-03-17T12:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidNewsletterSignUp -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.shopstyle.RegressionTestSuite@16f6701]" name="teardown" is-config="true" duration-ms="64" started-at="2015-03-17T12:17:22Z" finished-at="2015-03-17T12:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.shopstyle.RegressionTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
